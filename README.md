@@ -23,4 +23,4 @@
   ![@infance-tony #30NitesOfCode](https://www.codedex.io/api/petStatus?user=infance-tony)
 ---
 -->
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/infancetony?theme=dark&font=Karma&ext=heatmap)
