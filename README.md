@@ -1,4 +1,4 @@
-## coding...
+## In my era of vibe coding... 
 
 <img src="https://raw.githubusercontent.com/infance-tony/loop-hole/refs/heads/main/hacrrrr.gif" />
 
@@ -8,7 +8,7 @@
 
 
 
-## skills...
+## Skills...
 
 <img src="https://s3.amazonaws.com/media.thecrimson.com/photos/2023/04/04/110319_1362711.gif" alt="Description of the image">
 <br>
