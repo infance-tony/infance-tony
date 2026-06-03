@@ -1,11 +1,7 @@
-## Only vibe coding... 
+## Vibe Engineer... 
+
 
 <img src="https://raw.githubusercontent.com/infance-tony/loop-hole/refs/heads/main/hacrrrr.gif" />
-
-
-
-
-
 
 
 ## Skills...
@@ -22,7 +18,14 @@
   --- [Check out my progress!](https://www.codedex.io/@infance-tony/30-nites-of-code)  
   ![@infance-tony #30NitesOfCode](https://www.codedex.io/api/petStatus?user=infance-tony)
   ---
--->
+
 <img src="https://leetcard.jacoblin.cool/infance-tony?theme=dark&font=Karma&ext=heatmap" />
+-->
+
+
+  <a href="https://leetcode.com/u/infance-tony/">
+    <img src="https://img.shields.io/badge/LeetCode-infance--tony-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+  <img src="https://leetcard.jacoblin.cool/infance-tony?theme=dark&font=Karma&ext=heatmap" />
 
 
